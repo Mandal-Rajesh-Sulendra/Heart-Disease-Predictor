@@ -1,5 +1,5 @@
 # Heart-Disease-Predictor
-# Heart Disease Prediction App
+# Heart Disease Prediction
 
 A simple web application built with **Streamlit** that predicts the risk of heart disease using **Logistic Regression**.  
 The app allows users to input patient health data and receive an instant prediction along with the probability of heart disease.
