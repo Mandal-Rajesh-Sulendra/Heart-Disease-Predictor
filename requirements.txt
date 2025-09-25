@@ -1,5 +1,6 @@
 pandas
 streamlit
-pytorch
 joblib
 scikit-learn
+python
+
