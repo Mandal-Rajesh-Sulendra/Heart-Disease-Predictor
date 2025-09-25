@@ -1,4 +1,4 @@
-Project : Heart Disease Prediction Using Machine Learning
+Project Report: Heart Disease Prediction Using Machine Learning
 
 1. Introduction
 
