@@ -3,4 +3,4 @@ streamlit
 joblib
 scikit-learn
 python
-
+pip install --upgrade pip
